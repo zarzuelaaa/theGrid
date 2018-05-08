@@ -13,9 +13,12 @@ body {
   text-align: center;
 }
 
-.header1 h1 {.
-vertical-align: middle;
+.header1 h1 {
+  vertical-align: middle;
   margin:auto;
   color: white;
+
   font-family: 'Luckiest Guy', cursive;
+  font-size: 70px;
+  letter-spacing: 3px;
 }
