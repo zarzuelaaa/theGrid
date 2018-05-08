@@ -1,0 +1,4 @@
+git remote add origin https://github.com/zarzuelaaa/theGrid.git
+
+git add .
+git push -u origin master

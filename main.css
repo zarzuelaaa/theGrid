@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+
 html {
 }
 
@@ -15,4 +17,5 @@ body {
 vertical-align: middle;
   margin:auto;
   color: white;
+  font-family: 'Luckiest Guy', cursive;
 }
